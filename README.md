@@ -1,4 +1,4 @@
-# Golang Web Server Clean Archiecture
+# Golang Web Server Clean Architecture
 
 ## Description
 
